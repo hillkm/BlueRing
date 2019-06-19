@@ -9,5 +9,5 @@ Can be installed with "pip install pytoxcore"
 Once pytoxcore is installed, running BlueRingClient.py will begin an instance of the client, with a new ToxID.
 The ToxID of the client (necessary to send a friend request) will be shown in an output message.
 
-An in-depth discussion around the protocol, how it works, and what is happening behind the scenes, the final report
-can be found in pdf form inside the repo.
+An in-depth discussion around the protocol, how it works, and what is happening behind the scenes, 
+can be found in pdf form as final proj report inside the repo.
